@@ -1,1 +1,0 @@
-ng test --code-coverage
